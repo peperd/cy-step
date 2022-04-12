@@ -1,0 +1,20 @@
+{
+  "name": "cy-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.26.5",
+    "allure": "0.0.0",
+    "chai": "*",
+    "cypress": "^9.5.3",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^1.6.2",
+    "mocha": "*"
+  }
+}
